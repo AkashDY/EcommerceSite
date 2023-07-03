@@ -1,0 +1,33 @@
+.product-page {
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.product-card {
+  margin-bottom: 20px;
+}
+
+.reviews-heading {
+  margin-bottom: 10px;
+}
+
+.image-card {
+  border: none;
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+}
+
+.image-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.image-thumbnail {
+  width: 30%;
+  cursor: pointer;
+}
